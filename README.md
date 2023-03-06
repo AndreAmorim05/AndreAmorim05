@@ -1,4 +1,7 @@
-### Hi there 👋, I am André Amorim, Mechanical Engineer and Programager
+# Hi there 👋, I am André Amorim, Mechanical Engineer and Programager
+I am an undergraduate student in Mechanical Engineering at the Federal Institute of Education, Science, and Technology of Pernambuco and I am always looking for personal and professional development. As a developer, my main focus is on the Python language, where I develop versatile projects aimed at engineering and other fields of knowledge, but I also strive to stay updated on other languages and enjoy learning new and useful things that can expand my areas of knowledge, such as new languages and libraries. As a data scientist, I seek creative solutions to solve complex problems.
+
+Outside of technology, my hobby is realistic drawing, and I share my creations on my [Instagram](https://instagram.com/andreamorim.arts?igshid=ZDdkNTZiNTM=) profile as a professional realism artist.
 
 ##
 
